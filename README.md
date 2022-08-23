@@ -5,6 +5,9 @@
 
 <div>LIVE DEMO: <a href="https://quote-challenge.netlify.app/" target="_blank">Quote Challenge</a> </div>
 
+<h2>API</h2>
+<a href="https://github.com/lukePeavey/quotable">Quotable</a> <br />
+
 <h2>Used tools</h2>
 <a href="https://reactjs.org/">React</a> <br />
 <a href="https://tailwindcss.com/">Tailwind CSS</a> <br />
