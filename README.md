@@ -1,4 +1,4 @@
-<h1>WindBNB Challenge</h1>
+<h1>Quote app Challenge</h1>
 <img src="./src/assets/quote-website.png" alt="website logo"/>
 
 <br>
